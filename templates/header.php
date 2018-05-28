@@ -8,4 +8,12 @@
 	<link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
+	<nav class="navbar navbar-dark bg-primary text-center">
+		<div class="container">
+			<div class="navbar-nav">
+				<a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
+				<a class="nav-item nav-link" href="/list">List</a>
+			</div>
+		</div>
+	</nav>
 <?php ob_get_flush(); ?>

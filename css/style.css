@@ -9,3 +9,17 @@
 #childHolder {
   display: none;
 }
+
+.navbar-nav {
+  display: block;
+  width: 100%;
+}
+
+.nav-link {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav.navbar {
+  margin-bottom: 50px;
+}
